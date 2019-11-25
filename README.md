@@ -16,7 +16,6 @@ You can find me on [Linkedin](https://www.linkedin.com/in/brigitta-mackenzie-sha
 
   <title>Brig</title>
 
-</head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
@@ -88,15 +87,15 @@ You can find me on [Linkedin](https://www.linkedin.com/in/brigitta-mackenzie-sha
     <div id="profile">
 
       
-      <div class="portrait" style="background-image: url('www.gy17bk.github.io/image/IMG_20180628_102401.jpg');"></div>
-      <meta itemprop="image" content="www.gy17bk.github.io/image/IMG_20180628_102401.jpg">
+      <div class="portrait" style="background-image: url('https://github.com/gy17bk/mywebsite/blob/master/image/Brig.jpg');"></div>
+      <meta itemprop="image" content="https://github.com/gy17bk/mywebsite/blob/master/image/Brig.jpg">
       
 
       <div class="portrait-title">
         <h2 itemprop="name">Brig</h2>
-        <h3 itemprop="jobTitle">Msc Student</h3>
+        <h3 itemprop="jobTitle">Msc Student and Performance Officer</h3>
         
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+        <h3 itemprop="worksFor" itemscope itemtype="http://https://www.westyorks-ca.gov.uk/">
           
             <span itemprop="name">University of Leeds</span>
           
@@ -112,7 +111,7 @@ You can find me on [Linkedin](https://www.linkedin.com/in/brigitta-mackenzie-sha
         
         <li>
           <a itemprop="sameAs" href="https://github.com/gy17bk" target="_blank">
-            <i class="fa fa-github big-icon"></i>
+            <i class="https://github.com/gy17bk/mywebsite/blob/master/image/GitHub-Mark-64px.png"></i>
           </a>
         </li>
         
