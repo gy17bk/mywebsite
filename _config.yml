@@ -3,3 +3,4 @@ permalink: /:categories/:year/:month/:title/
 title: My First website with Github
 description: This is a personal website, contains university materials, bio and blog
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
