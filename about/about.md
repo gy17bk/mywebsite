@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About"
-permalink: https://gy17bk.github.io/about/
+permalink: https://gy17bk.github.io/about/about
 ---
 
 <div class="about">
