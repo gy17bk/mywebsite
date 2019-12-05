@@ -1,6 +1,9 @@
 /* Added fonts, sizes and family for all the different titles, navigation bar and footer */
 body { margin: 60px auto; width: 70%; }
 
+p.normal {
+  font-style: normal;
+}
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
