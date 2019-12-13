@@ -2,6 +2,10 @@
 /* em refers to the font size, which is e em=16px) */
 body { margin: 60px auto; width: 70%; }
 
+.notbold{
+    font-weight:normal
+}​
+
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
