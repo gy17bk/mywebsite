@@ -36,11 +36,16 @@ https://gy17bk.github.io/mywebsite/code/licence1.pdf
 References:
 Also included in the code's comments
 
-https://stackoverflow.com/questions/2307464/what-is-the-difference-between-root-destroy-and-root-quit
+[Online].[Accessed 10 December 2019]. Available from: https://stackoverflow.com/questions/2307464/what-is-the-difference-between-root-destroy-and-root-quit
+
 Used code from the comments to find out how to exit and stop the code running in the background
-  https://stackoverflow.com/questions/110923/how-do-i-close-a-tkinter-window
+[Online].[Accessed 11 December 2019]. Available from:   https://stackoverflow.com/questions/110923/how-do-i-close-a-tkinter-window
+
+[Online].[Accessed 02 December 2019]. Available from: 
 https://docs.python.org/3/library/doctest.html
+
 Canvas 
+[Online].[Accessed 15 December 2019]. Available from: 
 https://github.com/jarvisteach/appJar/issues/551
 
 
